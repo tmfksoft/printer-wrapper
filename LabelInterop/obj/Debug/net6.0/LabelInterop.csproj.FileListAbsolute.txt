@@ -1,0 +1,17 @@
+C:\Users\edwardst\source\repos\LabelInterop\LabelInterop\bin\Debug\net6.0\LabelInterop.exe
+C:\Users\edwardst\source\repos\LabelInterop\LabelInterop\bin\Debug\net6.0\LabelInterop.deps.json
+C:\Users\edwardst\source\repos\LabelInterop\LabelInterop\bin\Debug\net6.0\LabelInterop.runtimeconfig.json
+C:\Users\edwardst\source\repos\LabelInterop\LabelInterop\bin\Debug\net6.0\LabelInterop.dll
+C:\Users\edwardst\source\repos\LabelInterop\LabelInterop\bin\Debug\net6.0\LabelInterop.pdb
+C:\Users\edwardst\source\repos\LabelInterop\LabelInterop\bin\Debug\net6.0\Interop.bpac.dll
+C:\Users\edwardst\source\repos\LabelInterop\LabelInterop\obj\Debug\net6.0\LabelInterop.csproj.AssemblyReference.cache
+C:\Users\edwardst\source\repos\LabelInterop\LabelInterop\obj\Debug\net6.0\LabelInterop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edwardst\source\repos\LabelInterop\LabelInterop\obj\Debug\net6.0\LabelInterop.AssemblyInfoInputs.cache
+C:\Users\edwardst\source\repos\LabelInterop\LabelInterop\obj\Debug\net6.0\LabelInterop.AssemblyInfo.cs
+C:\Users\edwardst\source\repos\LabelInterop\LabelInterop\obj\Debug\net6.0\LabelInterop.csproj.CoreCompileInputs.cache
+C:\Users\edwardst\source\repos\LabelInterop\LabelInterop\obj\Debug\net6.0\LabelInterop.csproj.CopyComplete
+C:\Users\edwardst\source\repos\LabelInterop\LabelInterop\obj\Debug\net6.0\LabelInterop.dll
+C:\Users\edwardst\source\repos\LabelInterop\LabelInterop\obj\Debug\net6.0\refint\LabelInterop.dll
+C:\Users\edwardst\source\repos\LabelInterop\LabelInterop\obj\Debug\net6.0\LabelInterop.pdb
+C:\Users\edwardst\source\repos\LabelInterop\LabelInterop\obj\Debug\net6.0\LabelInterop.genruntimeconfig.cache
+C:\Users\edwardst\source\repos\LabelInterop\LabelInterop\obj\Debug\net6.0\ref\LabelInterop.dll
